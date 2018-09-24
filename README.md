@@ -23,3 +23,7 @@ A screenshot of your app showing the Tags List Page
 A screenshot of your app showing the Products List Page after clicking on “Aerodynamic” from the Tags List Page
 Your project code.
 
+<p align="center">
+  <img src="https://github.com/DaianAiziatov/forShopifyInternship/blob/master/ShopifyTag/taglist.png?raw=true" width="350" title="Tag List">
+  <img src="https://github.com/DaianAiziatov/forShopifyInternship/blob/master/ShopifyTag/productlist.png?raw=true" width="350" alt="Product List">
+</p>
